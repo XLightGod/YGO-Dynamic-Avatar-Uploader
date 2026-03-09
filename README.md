@@ -12,7 +12,7 @@ Dynamic Avatar Uploader
 ## Build
 
 1. Generate the mitmproxy certificate and place it in the `certs` folder.
-2. Run `start.bat`.
+2. Run `build.bat`.
 
 ## Usage
 
